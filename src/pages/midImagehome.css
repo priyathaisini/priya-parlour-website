@@ -1,0 +1,29 @@
+/* img{
+    object-fit: cover;
+    width: 100%;
+    
+} */
+/* div{
+    position: relative;
+    text-align: center;
+    color: white;
+  } */
+  #para1{
+    /* position: absolute;
+    top: 50%;
+    right: 5%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    text-transform: uppercase; */
+  }
+  .btn{
+    position: absolute;
+    top: 80%;
+    left: 75%;
+    color: goldenrod;
+    /* background-color: black; */
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    padding: 5px;
+
+  }

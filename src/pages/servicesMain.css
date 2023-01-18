@@ -1,0 +1,24 @@
+.container-fluid{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  #para1{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+  .btn{
+    position: absolute;
+    top: 68%;
+    left: 45%;
+    color: goldenrod;
+    /* background-color: black; */
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    padding: 5px;
+
+  }

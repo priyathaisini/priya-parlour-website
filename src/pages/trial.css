@@ -1,0 +1,11 @@
+div {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  #one{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+  }
