@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://priyathaisini.github.io/priya-parlour-website/static/css/main.94131bc0.css",
-    "main.js": "https://priyathaisini.github.io/priya-parlour-website/static/js/main.62510dee.js",
+    "main.js": "https://priyathaisini.github.io/priya-parlour-website/static/js/main.ef2254dd.js",
     "static/js/787.1fee1fb8.chunk.js": "https://priyathaisini.github.io/priya-parlour-website/static/js/787.1fee1fb8.chunk.js",
     "static/media/brides1.jpg": "https://priyathaisini.github.io/priya-parlour-website/static/media/brides1.ad70f5118387687b8ccc.jpg",
     "static/media/midimage.jpg": "https://priyathaisini.github.io/priya-parlour-website/static/media/midimage.27afaa25aaae08c6825f.jpg",
@@ -55,11 +55,11 @@
     "static/media/01.jpeg": "https://priyathaisini.github.io/priya-parlour-website/static/media/01.0aa2c01b24bec0e1002c.jpeg",
     "index.html": "https://priyathaisini.github.io/priya-parlour-website/index.html",
     "main.94131bc0.css.map": "https://priyathaisini.github.io/priya-parlour-website/static/css/main.94131bc0.css.map",
-    "main.62510dee.js.map": "https://priyathaisini.github.io/priya-parlour-website/static/js/main.62510dee.js.map",
+    "main.ef2254dd.js.map": "https://priyathaisini.github.io/priya-parlour-website/static/js/main.ef2254dd.js.map",
     "787.1fee1fb8.chunk.js.map": "https://priyathaisini.github.io/priya-parlour-website/static/js/787.1fee1fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94131bc0.css",
-    "static/js/main.62510dee.js"
+    "static/js/main.ef2254dd.js"
   ]
 }
